@@ -1,2 +1,2 @@
 # ROUTER-1X3-DESIGN
-This is my first project on GitHub.
+outing is the process of moving a packet of data from source to destination and enables messages to pass from one computer to another and eventually reach the target machine. A router is a networking device that forwards data packets between computer networks. It is connected to two or more data lines from different networks (as opposed to a network switch, which connects data lines from one single network). 
